@@ -2,9 +2,10 @@ print("Hello World")
 print("ahmad")
 print("hilmy")
 print("santoso")
+
 #ini adalah komen
 a = 1 #ini angka 1
-"""aku dimana"""
+"""nama lengkap"""
 print(a)
 #berurutan/ urut
 #cara mengcompile python

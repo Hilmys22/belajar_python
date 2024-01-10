@@ -1,8 +1,7 @@
 print("Hello World")
-print("chawnima")
-print("chawchibe")
-
-print("walawe")
+print("ahmad")
+print("hilmy")
+print("santoso")
 #ini adalah komen
 a = 1 #ini angka 1
 """aku dimana"""

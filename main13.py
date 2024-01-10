@@ -53,5 +53,5 @@ Kelas: 12
 print("""
 Nama    : ahmad hilmy s
 Kelas   : xii 12 tkj 2
-website : www.ahmad.com/portofolio    
+website : www.example.com   
 """)

@@ -30,7 +30,7 @@ print("C:\\user\\Ahmad")
 print("fajar\t\t\t\t\twulan, semakin berjauhan")
 
 # backspcace
-print("dimas \bwawuren")
+print("dimas \bsakit")
 
 # newline
 print('baris pertama \nbaris kedua') # LF line feed -> unix, macos, linux
@@ -53,5 +53,5 @@ Kelas: 12
 print("""
 Nama    : ahmad hilmy s
 Kelas   : xii 12 tkj 2
-website : www.ahmad.com/portofolio    
+website : www.example.com   
 """)

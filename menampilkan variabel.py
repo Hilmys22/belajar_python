@@ -1,11 +1,11 @@
 print("Hello World")
-print("chawnima")
-print("chawchibe")
+print("ahmad")
+print("hilmy")
+print("santoso")
 
-print("walawe")
 #ini adalah komen
 a = 1 #ini angka 1
-"""aku dimana"""
+"""nama lengkap"""
 print(a)
 #berurutan/ urut
 #cara mengcompile python
